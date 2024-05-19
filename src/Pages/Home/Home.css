@@ -1,0 +1,19 @@
+/* src/pages/Home.css */
+.home-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 20px;
+    background-color: #f8f8f8;
+  }
+  .title {
+    text-align: center;
+    font-family: 'Lobster';
+    font-weight: 500;
+    font-size: 40px;
+  }
+  .article-item {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
